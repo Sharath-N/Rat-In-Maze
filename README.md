@@ -1,9 +1,11 @@
 # DATA STRUCTURES - UE16CS207 - PES University
 ## Rat-In-Maze
+A terminal based maze game.
 The program deals with the creation, solving and playing with mazes.
 
 ---
 ##### It mainly consists of two parts,
+
 1. Provide a Maze : 
 In this portion of the program, the user is  allowed to provide the maze, for which the program solves the maze for user.
 * Further "providing maze" presents user with two choices - "Creation of own Maze(By user)" and "Pick from available ones(provided by program)".
@@ -11,6 +13,7 @@ In this portion of the program, the user is  allowed to provide the maze, for wh
 * In "Pick from available ones(provided by program)" portion, user is supposed to choose from pre-defined mazes presented by the program.
 
 Overall, if the user chooses any of the two options, the program goes through the maze in recursive manner and finds the solution.
+
 
 
 2. Play Maze Challenge : 
@@ -22,7 +25,10 @@ But when you run our program there's no binary digits involved in the maze, i.e.
 Doubly Linked List, encoding, recursion, two-dimensional arrays, etc are the main features of this program.
 So, with all these features and with the knowledge of the data structures and algorithmic notions, we've developed this game.
 
+
+
 ---
+
 #### My Team:
 * SHARATH N
 * SHASHANK SHEKHAR PATHAK
